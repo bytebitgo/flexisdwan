@@ -11,7 +11,7 @@ graph TD
 
 # Create Account
 
-- [ ] ###### Sign in https://manage.xiangyundns.cn/create-account
+- [ ]###### Sign in https://manage.xiangyundns.cn/create-account
 
 - [ ] ###### Receive Email to active Account
 
